@@ -1,0 +1,20 @@
+C:\Users\Korisnik\Desktop\zadatak za sortiranje vozila\Zadatak\bin\Debug\Zadatak.exe.config
+C:\Users\Korisnik\Desktop\zadatak za sortiranje vozila\Zadatak\bin\Debug\Zadatak.exe
+C:\Users\Korisnik\Desktop\zadatak za sortiranje vozila\Zadatak\bin\Debug\Zadatak.pdb
+C:\Users\Korisnik\Desktop\zadatak za sortiranje vozila\Zadatak\obj\Debug\Zadatak.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\zadatak za sortiranje vozila\Zadatak\obj\Debug\Zadatak.Form1.resources
+C:\Users\Korisnik\Desktop\zadatak za sortiranje vozila\Zadatak\obj\Debug\Zadatak.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\zadatak za sortiranje vozila\Zadatak\obj\Debug\Zadatak.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\zadatak za sortiranje vozila\Zadatak\obj\Debug\Zadatak.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\zadatak za sortiranje vozila\Zadatak\obj\Debug\Zadatak.exe
+C:\Users\Korisnik\Desktop\zadatak za sortiranje vozila\Zadatak\obj\Debug\Zadatak.pdb
+C:\Users\Ucenik\Desktop\Sortiranje-vozila-main\Sortiranje vozila\Zadatak\bin\Debug\Zadatak.exe.config
+C:\Users\Ucenik\Desktop\Sortiranje-vozila-main\Sortiranje vozila\Zadatak\bin\Debug\Zadatak.exe
+C:\Users\Ucenik\Desktop\Sortiranje-vozila-main\Sortiranje vozila\Zadatak\bin\Debug\Zadatak.pdb
+C:\Users\Ucenik\Desktop\Sortiranje-vozila-main\Sortiranje vozila\Zadatak\obj\Debug\Zadatak.csproj.AssemblyReference.cache
+C:\Users\Ucenik\Desktop\Sortiranje-vozila-main\Sortiranje vozila\Zadatak\obj\Debug\Zadatak.Properties.Resources.resources
+C:\Users\Ucenik\Desktop\Sortiranje-vozila-main\Sortiranje vozila\Zadatak\obj\Debug\Zadatak.Form1.resources
+C:\Users\Ucenik\Desktop\Sortiranje-vozila-main\Sortiranje vozila\Zadatak\obj\Debug\Zadatak.csproj.GenerateResource.cache
+C:\Users\Ucenik\Desktop\Sortiranje-vozila-main\Sortiranje vozila\Zadatak\obj\Debug\Zadatak.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\Desktop\Sortiranje-vozila-main\Sortiranje vozila\Zadatak\obj\Debug\Zadatak.exe
+C:\Users\Ucenik\Desktop\Sortiranje-vozila-main\Sortiranje vozila\Zadatak\obj\Debug\Zadatak.pdb
